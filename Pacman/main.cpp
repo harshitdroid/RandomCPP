@@ -37,7 +37,7 @@ void printBoard() {
     }
 }
 
-// Get player input
+// Get player input (w,a,s,d)
 void getPlayerInput() {
     char move;
     cout << "Enter move (w, a, s, d): ";
